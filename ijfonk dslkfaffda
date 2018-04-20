@@ -1,0 +1,59 @@
+[33mcommit 9405734120eee247989664462ba2485ddf45bce1[m
+Author: zgf123 <277845885@qq.com>
+Date:   Thu Apr 19 10:58:54 2018 +0000
+
+    Finish login and logout
+
+[33mcommit b5409e4584d0e8c177a75eb6a85ef56d4db0b00f[m
+Author: zgf123 <277845885@qq.com>
+Date:   Thu Apr 19 07:39:24 2018 +0000
+
+    Updated database configuration
+
+[33mcommit 0ec10d5f1a01828a27088ffdcf321033072332d7[m
+Author: zgf123 <277845885@qq.com>
+Date:   Thu Apr 19 06:58:21 2018 +0000
+
+    Updated database configuration
+
+[33mcommit 24b16c713453c1ecf76b63b3e185f50645a38a52[m
+Author: zgf123 <277845885@qq.com>
+Date:   Thu Apr 19 06:39:47 2018 +0000
+
+    Finish user signup
+
+[33mcommit a1f51d4d3099ae3c4cd75b231e9b1d30132cba4d[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 10:19:08 2018 +0000
+
+    Move User model to models folder
+
+[33mcommit 05866baff2264a0d46cf6c93319fd6189b942090[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 09:14:13 2018 +0000
+
+    Finish layout and routes
+
+[33mcommit 59af935c7d58f4fed3b66c1c1d6b6a293f1ca828[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 07:20:33 2018 +0000
+
+    static pages
+
+[33mcommit ece5c375be1659dd5a06c4e5e952e05c1d0fc172[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 06:33:18 2018 +0000
+
+    ___
+
+[33mcommit 816851e2717de733923bbc3de935964310f72944[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 06:14:46 2018 +0000
+
+    Procfile for Heroku
+
+[33mcommit ac4cd8d386fd6bf857ccb63bc12a294f5439ec53[m
+Author: zgf123 <277845885@qq.com>
+Date:   Wed Apr 18 05:45:19 2018 +0000
+
+    ___
